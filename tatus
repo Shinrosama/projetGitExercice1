@@ -1,0 +1,47 @@
+[33mcommit 4a711917282d65cc13e6f1e2df989ffefc4bc949[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: hamid Hazzab <hamid.hazzab@lapiscine.pro>
+Date:   Fri Sep 22 12:01:40 2023 +0200
+
+    après création toto
+
+[33mcommit 50c7fc5aa395c46a97100c77d2e2a869ae89d816[m
+Author: hamid Hazzab <hamid.hazzab@lapiscine.pro>
+Date:   Fri Sep 22 11:40:45 2023 +0200
+
+    le sous titre a toto
+
+[33mcommit ae25e8b51d33202a1ee026353ce6feae4d1a0a39[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mtot[m[33m)[m
+Author: hamid Hazzab <hamid.hazzab@lapiscine.pro>
+Date:   Fri Sep 22 10:27:34 2023 +0200
+
+    ajoutDeGitIgnore
+
+[33mcommit 9dad459764ca83e0ef95f4a543bb489d1aee2b75[m[33m ([m[1;33mtag: paragrapheALaLigne[m[33m)[m
+Author: hamid Hazzab <hamid.hazzab@lapiscine.pro>
+Date:   Thu Sep 21 16:51:33 2023 +0200
+
+    mise en page paragraphe
+
+[33mcommit 2e654ebdf8afa23bf50c895621143dc36c5dd051[m[33m ([m[1;33mtag: couleurH1H2[m[33m)[m
+Author: hamid Hazzab <hamid.hazzab@lapiscine.pro>
+Date:   Thu Sep 21 16:32:15 2023 +0200
+
+    création texte et Css couleur h1 h2
+
+[33mcommit 3ec4dbfbd6420a409dc6a905974431712cf3423b[m
+Author: hamid Hazzab <hamid.hazzab@lapiscine.pro>
+Date:   Thu Sep 21 16:26:44 2023 +0200
+
+    création h2
+
+[33mcommit 9e4e317426ca9de815bb3dc6901cea1ae2afd5e8[m
+Author: hamid Hazzab <hamid.hazzab@lapiscine.pro>
+Date:   Thu Sep 21 16:21:15 2023 +0200
+
+    title et h1
+
+[33mcommit 021152d9e1b7f879549167bef9f208b11b6aa757[m
+Author: hamid Hazzab <hamid.hazzab@lapiscine.pro>
+Date:   Thu Sep 21 16:17:34 2023 +0200
+
+    premier commit
